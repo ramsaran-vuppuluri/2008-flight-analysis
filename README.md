@@ -38,6 +38,8 @@ From the final visualizations we can deduce the following observations:
     * September has the least number of flight diversions in 2008.
     * Dallas Forth worth has highest number of total diversions in 2008.
     
+__Note: Due to GIT file size limit (100 MB) raw data was not stored in the repository. Please download the raw file [2008.csv](http://stat-computing.org/dataexpo/2009/the-data.html) and run Wrangle_FlightData_2008_1.0 and Wrangle_FlightData_2008_1.1 to generate flights_2008_clean.csv utilized to generate the Tableau story line.__
+    
 ### Design
 
 In this story line following design decisions are made:
