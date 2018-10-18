@@ -59,4 +59,3 @@ In this story line following design decisions are made:
 Additional technical resources
 
 * https://community.tableau.com/people/sarah.battersby.0/blog/2018/01/12/origin-destination-maps-or-flow-maps 
-* https://www.youtube.com/watch?v=ckQNNhCfUW4&t=638s 
